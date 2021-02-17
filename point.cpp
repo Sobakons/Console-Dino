@@ -6,7 +6,7 @@ using namespace std;
 class  Point {
 	int _x, _y;
 
-общественность:
+public:
 	Point() {
 		_x = 0;
 		_y = 0;
