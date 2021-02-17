@@ -1,5 +1,11 @@
-#include <main.h>
+#include <Windows.h>
 #include <iostream>
+#include <cmath>
+#include <vector>
+#include <ctime>
+#include <unordered_map>
+
+using namespace std;
 
 using namespace std;
 
