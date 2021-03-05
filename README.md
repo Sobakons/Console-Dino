@@ -1,2 +1,2 @@
-# Console-Dino
+# Console-Din0
 ###### Just a console game :)
